@@ -9,3 +9,5 @@ Após colar, aperte esc e digite :wq + enter para salvar.
 Agora configurado seu arquivo use docker-compose up --build -d para iniciar e docker-compose down para parar
 
 Caso queira mudar usuário e senha mude em docker-compose.yaml.
+
+Para abrir no navegador, digite "localhost:80" na barra de pesquisa.
